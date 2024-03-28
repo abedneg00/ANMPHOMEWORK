@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Coca-Cola",
+    "type": "Soft Drink",
+    "flavors": ["Original", "Diet", "Cherry"],
+    "manufacturer": {
+      "name": "The Coca-Cola Company",
+      "country": "United States"
+    },
+    "images": "https://loremflickr.com/320/240/drink?lock=1"
+  },
+  {
+    "id": 2,
+    "name": "Pepsi",
+    "type": "Soft Drink",
+    "flavors": ["Original", "Diet", "Max"],
+    "manufacturer": {
+      "name": "PepsiCo, Inc.",
+      "country": "United States"
+    },
+    "images": "https://loremflickr.com/320/240/drink?lock=2"
+  },
+  {
+    "id": 3,
+    "name": "Sprite",
+    "type": "Soft Drink",
+    "flavors": ["Original", "Zero Sugar", "Lemon-Lime"],
+    "manufacturer": {
+      "name": "The Coca-Cola Company",
+      "country": "United States"
+    },
+    "images": "https://loremflickr.com/320/240/drink?lock=3"
+  },
+  {
+    "id": 4,
+    "name": "Fanta",
+    "type": "Soft Drink",
+    "flavors": ["Orange", "Grape", "Strawberry"],
+    "manufacturer": {
+      "name": "The Coca-Cola Company",
+      "country": "United States"
+    },
+    "images": "https://loremflickr.com/320/240/drink?lock=4"
+  },
+  {
+    "id": 5,
+    "name": "Red Bull",
+    "type": "Energy Drink",
+    "flavors": ["Original", "Sugar-Free", "Blue Edition"],
+    "manufacturer": {
+      "name": "Red Bull GmbH",
+      "country": "Austria"
+    },
+    "images": "https://loremflickr.com/320/240/drink?lock=5"
+  },
+  {
+    "id": 6,
+    "name": "Monster Energy",
+    "type": "Energy Drink",
+    "flavors": ["Original", "Zero Ultra", "Assault"],
+    "manufacturer": {
+      "name": "Monster Beverage Corporation",
+      "country": "United States"
+    },
+    "images": "https://loremflickr.com/320/240/drink?lock=6"
+  },
+  {
+    "id": 7,
+    "name": "Gatorade",
+    "type": "Sports Drink",
+    "flavors": ["Lemon-Lime", "Fruit Punch", "Orange"],
+    "manufacturer": {
+      "name": "PepsiCo, Inc.",
+      "country": "United States"
+    },
+    "images": "https://loremflickr.com/320/240/drink?lock=7"
+  },
+  {
+    "id": 8,
+    "name": "Nestea",
+    "type": "Iced Tea",
+    "flavors": ["Lemon", "Peach", "Raspberry"],
+    "manufacturer": {
+      "name": "Nestlé S.A.",
+      "country": "Switzerland"
+    },
+    "images": "https://loremflickr.com/320/240/drink?lock=8"
+  },
+  {
+    "id": 9,
+    "name": "Snapple",
+    "type": "Iced Tea",
+    "flavors": ["Lemon", "Peach", "Raspberry"],
+    "manufacturer": {
+      "name": "Keurig Dr Pepper",
+      "country": "United States"
+    },
+    "images": "https://loremflickr.com/320/240/drink?lock=9"
+  },
+  {
+    "id": 10,
+    "name": "Mountain Dew",
+    "type": "Soft Drink",
+    "flavors": ["Original", "Code Red", "Voltage"],
+    "manufacturer": {
+      "name": "PepsiCo, Inc.",
+      "country": "United States"
+    },
+    "images": "https://loremflickr.com/320/240/drink?lock=10"
+  }
+]
