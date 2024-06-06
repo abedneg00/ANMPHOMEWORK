@@ -46,6 +46,5 @@ class DrinkListFragment : Fragment() {
             drinkListAdapter.updateDrinkList(it)
         })
 
-
     }
 }

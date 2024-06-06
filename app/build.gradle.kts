@@ -2,6 +2,7 @@ plugins {
     id("com.android.application")
     id("org.jetbrains.kotlin.android")
     id("androidx.navigation.safeargs.kotlin")
+    id("kotlin-kapt")
 }
 
 android {
@@ -10,7 +11,9 @@ android {
 
     buildFeatures{
         viewBinding = true
+        dataBinding = true
     }
+
 
     defaultConfig {
         applicationId = "com.example.studentapp"
@@ -55,4 +58,8 @@ dependencies {
     implementation("com.android.volley:volley:1.2.1")
     implementation("com.google.code.gson:gson:2.10.1")
 
+    implementation ("com.squareup.picasso:picasso:2.71828")
+    implementation ("io.reactivex.rxjava3:rxjava:3.1.3")
+    implementation ("io.reactivex.rxjava3:rxandroid:3.0.0")
+    implementation ("io.reactivex.rxjava3:rxkotlin:3.0.1")
 }
